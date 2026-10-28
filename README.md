@@ -3,9 +3,8 @@
 <p align="center">
   <img alt="Platform" src="https://img.shields.io/badge/platform-MetaTrader%205-3987e5">
   <img alt="Language" src="https://img.shields.io/badge/language-MQL5-3987e5">
-  <img alt="Account" src="https://img.shields.io/badge/account-hedging%20only-d95926">
-  <img alt="Version" src="https://img.shields.io/badge/version-1.00-555555">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-555555">
+
+
 </p>
 <img width="1280" height="840" alt="cycle-lifecycle" src="https://github.com/user-attachments/assets/e2448d57-b348-499b-8b27-28bd2500bcb4" />
 
