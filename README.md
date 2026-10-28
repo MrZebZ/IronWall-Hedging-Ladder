@@ -7,10 +7,6 @@
 Open-source MetaTrader 5 expert advisors. Each bot ships with its source, a plain-language explanation of its
 logic, a reference for every input, and an honest account of how it can fail.
 
-> [!CAUTION]
-> Trading leveraged products can lose more than your deposit. Nothing here is financial advice, and no profit is
-> guaranteed. Test everything on a demo account first. Read the [risk disclaimer](RISK_DISCLAIMER.md) before you
-> run any bot in this repository with real money.
 
 ## Bots
 
