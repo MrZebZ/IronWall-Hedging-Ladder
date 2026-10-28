@@ -1,0 +1,24 @@
+# MetaTrader build output and tester artefacts
+*.ex5
+*.ex4
+*.tst
+*.opt
+*.log
+
+# Terminal-generated folders, if the repo is cloned inside a data folder
+/Logs/
+/Tester/
+/Profiles/
+
+# Python (tools/generate_images.py)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

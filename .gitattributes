@@ -1,0 +1,11 @@
+# Normalise line endings, but keep MetaEditor-friendly CRLF for MQL sources
+* text=auto
+*.mq5 text eol=crlf
+*.mq4 text eol=crlf
+*.mqh text eol=crlf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.ex5 binary
+*.ex4 binary
